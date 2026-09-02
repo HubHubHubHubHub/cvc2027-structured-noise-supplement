@@ -87,3 +87,13 @@ primary-source ground.
 | GPE (arXiv:2501.09876) | CORRECTED (structure cell) | the isometric/weakly α-bi-Lipschitz condition is imposed on the encoder only; the decoder is a reconstruction-trained approximate inverse — cell rewritten. |
 | Generalized Score Matching (arXiv:2504.19288) | CONFORME | — |
 | Forward-Learned Discrete (arXiv:2605.18204) | CONFORME | — |
+
+## Erratum (2 September 2026, family-level counter-audit)
+
+- Tweedie beyond Gaussian (arXiv:2605.19391): error label corrected
+  from `sensitivity` to `identify`. The paper's central results are
+  Tweedie identities for GBM/BESQ/CIR and the score-matching
+  objectives derived from them (re-verified on the primary text);
+  the closing audit of 31 August had confirmed the row as originally
+  coded. The corpus-level count of identification results moves from
+  13 to 14 accordingly.
