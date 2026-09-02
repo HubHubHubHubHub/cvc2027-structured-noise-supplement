@@ -68,7 +68,7 @@ primary-source ground.
 | Entry | Verdict | Correction and ground |
 |---|---|---|
 | Girolami–Calderhead (JRSS-B 2011) | CONFORME | — |
-| Precond. SGM (arXiv:2302.06504) | CORRECTED (structure cell; also in Table 1) | the coefficient ḡ_t²MM^⊤ belongs to the reverse predictor; the target-preserving Langevin corrector (role α, Thm 4.1) has a = ε_t²MM^⊤ — “the reverse diffusion … is different from the Langevin dynamics”. |
+| Precond. SGM (arXiv:2302.06504) | CORRECTED (structure cell; also in the representative table of the audited draft, since merged into the full table) | the coefficient ḡ_t²MM^⊤ belongs to the reverse predictor; the target-preserving Langevin corrector (role α, Thm 4.1) has a = ε_t²MM^⊤ — “the reverse diffusion … is different from the Langevin dynamics”. |
 | Choi–Fan (arXiv:2506.08337) | CONFORME | — |
 | Li–van der Schaar (arXiv:2308.05021) | CONFORME | — |
 | Malliavin score (arXiv:2503.16917) | CONFORME | — |

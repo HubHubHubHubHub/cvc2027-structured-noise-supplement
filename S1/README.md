@@ -22,3 +22,7 @@ closed on 31 August 2026 after a dated rerun of all search families
 and an independent primary-text re-audit of all 47 entries. The
 intervening window (28–31 August) yielded no eligible addition and no
 source revision.
+
+Note on numbering: in the submitted paper the full audited corpus
+appears as Table 1; the earlier representative table of the audited
+draft was merged into it.
